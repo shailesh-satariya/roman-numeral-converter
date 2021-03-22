@@ -3,7 +3,7 @@
 # Description
 This app converts numbers to roman numerals and vice versa.
 
-[Demo](https://shailesh-satariya.github.io/react-numeral-converter/demo/)
+[Demo](https://shailesh-satariya.github.io/roman-numeral-converter/demo/)
 
 ## Available Scripts
 
