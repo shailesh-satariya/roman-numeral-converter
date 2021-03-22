@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Roman numeral converter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
+This app converts numbers to roman numerals and vice versa.
+
+[Demo](https://shailesh-satariya.github.io/react-numeral-converter/demo/)
 
 ## Available Scripts
 
